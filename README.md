@@ -1,4 +1,4 @@
-# TS_Learning
+# TS_Learning_RMP
 
 JavaScript is the most widely-used programming language for web development. But it lacks type-checking support, which is an essential feature of modern programming languages.
 
